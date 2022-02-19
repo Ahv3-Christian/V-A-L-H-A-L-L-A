@@ -5,7 +5,7 @@
 		"editor.background": "#0e131a",
 
 		//parentesis Llaves
-		"editor.foreground": "#ecfab9",
+		"editor.foreground": "#a9daff",
 		
 
 		//TITULOSa
@@ -173,7 +173,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#a83fff"
+				"foreground": "#8367ff"
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ff31f8"
+				"foreground": "#ac47ff"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f7517d"
+				"foreground": "#ee38e8"
 			}
 		},
 		{
@@ -332,7 +332,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#c7f031"
 			}
 		},
 		{
@@ -409,7 +409,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#58f873"
+				"foreground": "#fd8b4d"
 			}
 		},
 		{//
