@@ -1,0 +1,31 @@
+{
+    "name": "V A L H A L L A",
+    "displayName": "V A L H A L L A",
+    "description": "THEME DARK",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "THEME VALHALLA",
+                "uiTheme": "vs-dark",
+                "path": "./themes/THEME VALHALLA-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/valhalla.png",
+    "author": {
+        "name": "achriaeel",
+        "email": "achriaeel@gmail.com"
+    },
+    "repository": {
+        "url": "git remote add origin https://github.com/Ahv3-Christian/V-A-L-H-A-L-L-A.git",
+        "type": "git"
+    },
+    "publisher": "v-a-l-h-a-l-l-a"
+}
